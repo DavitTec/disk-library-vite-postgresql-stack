@@ -11,9 +11,41 @@
 <image-card alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" ></image-card>
 <image-card alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" ></image-card>
 
-**v0.0.2** — A clean, production-ready starter boilerplate for complex relational applications using **Vite + React + TypeScript** frontend and a lightweight **Hono + PostgreSQL** backend.
+**v0.3.0** — A clean, production-ready starter boilerplate for complex relational applications using **Vite + React + TypeScript** frontend and a lightweight **Hono + PostgreSQL** backend.
 
 Built specifically for projects that need strong table relationships (disks, locations, health monitoring, ownership history, deduplication, snapshots, etc.). Perfect base for inventory systems, asset management, disaster-recovery tools, or any multi-table PostgreSQL app.
+
+## Get Started
+
+- Setting up React + TypeScript + Vite
+
+- To run scripts in deve mode
+
+  - ```bash
+    pnpm dev
+    ```
+
+- To Build site
+
+  - ```bash
+    pnpm build
+    ```
+
+- To Preview Built site in folder ``./dist` (NOTE: you must build first)
+
+  - ```bash
+    pnpm preview
+    ```
+
+
+
+
+
+
+
+
+
+---
 
 > created as the foundation for a larger "Disaster Recovery Plan" project. Now open-sourced as a reusable starter.
 
