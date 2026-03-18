@@ -1,5 +1,12 @@
 # Disk library vite postgresql stack
 
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/DavitTec/disk-library-vite-postgresql-stack?style=for-the-badge&logo=github)](https://github.com/DavitTec/disk-library-vite-postgresql-stack/tag)
+[![GitHub open issues](https://img.shields.io/github/issues-raw/DavitTec/disk-library-vite-postgresql-stack?style=for-the-badge&label=Open%20Issues)](https://github.com/DavitTec/disk-library-vite-postgresql-stack/issues)
+[![GitHub top language](https://img.shields.io/github/languages/top/DavitTec/disk-library-vite-postgresql-stack?style=for-the-badge)](https://github.com/DavitTec/disk-library-vite-postgresql-stack)
+[![GitHub license](https://img.shields.io/github/license/DavitTec/disk-library-vite-postgresql-stack?style=for-the-badge)](https://github.com/DavitTec/disk-library-vite-postgresql-stack)
+
+---
+
 <image-card alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" ></image-card>
 <image-card alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" ></image-card>
 <image-card alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" ></image-card>
