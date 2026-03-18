@@ -6,10 +6,9 @@ Built specifically for projects that need strong table relationships (disks, loc
 
 > Originally created as the foundation for a larger "Disaster Recovery Plan" project. Now open-sourced as a reusable starter.
 
-<img src="https://github.com/DavitTec/disk-library-vite-postgresql-stack/blob/main/assets/preview/Dashboard.png?raw=true" alt="Dashboard.png" style="zoom:33%;" />
-
 ![Dashboard](https://raw.githubusercontent.com/DavitTec/disk-library-vite-postgresql-stack/main/images/Dashboard.png)
-<img src="https://raw.githubusercontent.com/DavitTec/disk-library-vite-postgresql-stack/main/assets/preview/Disks-Mobile.png" width="33%" alt="Disks" /><img src="https://raw.githubusercontent.com/DavitTec/disk-library-vite-postgresql-stack/main/assets/preview/Locaions-mobile.png" width="33%" alt="Location" /><img src="https://raw.githubusercontent.com/DavitTec/disk-library-vite-postgresql-stack/main/assets/preview/Health-Monitoring-Mobile.png" width="33%" alt="Health-Monitoring" />  
+<img src="https://raw.githubusercontent.com/DavitTec/disk-library-vite-postgresql-stack/main/assets/preview/Disks-Mobile.png" width="33%" alt="Disks" /><img src="https://raw.githubusercontent.com/DavitTec/disk-library-vite-postgresql-stack/main/assets/preview/Locations-Mobile.png" width="33%" alt="Location" /><img src="https://raw.githubusercontent.com/DavitTec/disk-library-vite-postgresql-stack/main/assets/preview/Health-Monitoring-Mobile.png" width="33%" alt="Health-Monitoring" />
+
 ---
 
 ---_(add a more screenshots later)_
