@@ -1,0 +1,31 @@
+{
+  "name": "disk-library-vite-postgresql-stack",
+  "version": "0.3.0",
+  "description": " A clean, production-ready starter boilerplate for complex relational applications using **Vite + React + TypeScript** frontend and a lightweight **Hono + PostgreSQL** backend.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "react",
+    "typescript",
+    "postgresql",
+    "hono",
+    "boilerplate",
+    "starter-template",
+    "asset-management",
+    "inventory-system",
+    "relational-database"
+  ],
+  "author": "David Mullins",
+  "license": "MIT",
+  "packageManager": "pnpm@10.13.1",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": ">=10",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.5",
+    "globals": "^17.4.0",
+    "prettier": "^3.8.1"
+  }
+}
