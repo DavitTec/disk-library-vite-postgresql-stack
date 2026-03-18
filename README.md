@@ -1,13 +1,16 @@
-# disk-library-vite-postgresql-stack
+# Disk library vite postgresql stack
 
-**v0.1.0** — A clean, production-ready starter boilerplate for complex relational applications using **Vite + React + TypeScript** frontend and a lightweight **Hono + PostgreSQL** backend.
+**v0.0.1** — A clean, production-ready starter boilerplate for complex relational applications using **Vite + React + TypeScript** frontend and a lightweight **Hono + PostgreSQL** backend.
 
 Built specifically for projects that need strong table relationships (disks, locations, health monitoring, ownership history, deduplication, snapshots, etc.). Perfect base for inventory systems, asset management, disaster-recovery tools, or any multi-table PostgreSQL app.
 
 > Originally created as the foundation for a larger "Disaster Recovery Plan" project. Now open-sourced as a reusable starter.
 
-![Dashboard Preview](https://github.com/DavitTec/disk-library-vite-postgresql-stack/assets/.../preview.png)  
-_(add a screenshot later)_
+<img src="https://github.com/DavitTec/disk-library-vite-postgresql-stack/blob/main/assets/preview/Dashboard.png?raw=true" alt="Dashboard.png" style="zoom:33%;" /><img src="https://github.com/DavitTec/disk-library-vite-postgresql-stack/blob/main/assets/preview/Dashboard-mobile.png?raw=true" alt="Dashboard.png" style="zoom:33%;" />
+
+---
+
+---_(add a more screenshots later)_
 
 ---
 
